@@ -1,0 +1,9 @@
+DecalModulate
+{
+$basetexture "decals/vtg_assets_decals/vtg_logo_square"
+$surfaceprop default
+$decal 1
+$decalscale 0.05
+$vertexcolor 1
+$vertexalpha 1
+}
